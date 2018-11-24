@@ -39,7 +39,7 @@ body{
 	text-transform: lowercase;
 	font-size: 30px;
 	color: #eee;
-	animation: ip 4s 1;
+	animation: ip 3s 1;
 }
 .text3{
 	text-transform: uppercase;
@@ -47,7 +47,7 @@ body{
 	color: #eee;
 	position: relative;
 	top: 5px;
-	animation: ctc 5s 1;
+	animation: ctc 3s 1;
 }
 @keyframes text{
 	0%{
@@ -76,8 +76,8 @@ body{
 	0%{
 		color: rgba(0,0,0,0);
 	}
-	84%{
+	94%{
 		color: rgba(0,0,0,0);
 	}
-	85%{}
+	95%{}
 }
