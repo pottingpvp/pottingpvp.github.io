@@ -67,17 +67,17 @@ body{
 	0%{
 		color: rgba(0,0,0,0);
 	}
-	44%{
+	64%{
 		color: rgba(0,0,0,0);
 	}
-	45%{}
+	65%{}
 }
 @keyframes ctc{
 	0%{
 		color: rgba(0,0,0,0);
 	}
-	49%{
+	69%{
 		color: rgba(0,0,0,0);
 	}
-	50%{}
+	70%{}
 }
