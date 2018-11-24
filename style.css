@@ -58,7 +58,7 @@ body{
 		letter-spacing: 25px;
 		margin-bottom: -40px;
 	}
-	85%{
+	75%{
 		letter-spacing: 8px;
 		margin-bottom: -40px;
 	}
@@ -67,17 +67,17 @@ body{
 	0%{
 		color: rgba(0,0,0,0);
 	}
-	86%{
+	81%{
 		color: rgba(0,0,0,0);
 	}
-	87%{}
+	82%{}
 }
 @keyframes ctc{
 	0%{
 		color: rgba(0,0,0,0);
 	}
-	97%{
+	92%{
 		color: rgba(0,0,0,0);
 	}
-	98%{}
+	93%{}
 }
