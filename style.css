@@ -39,6 +39,7 @@ body{
 	text-transform: lowercase;
 	font-size: 30px;
 	color: #eee;
+	animation: ip 3s 1;
 }
 .text3{
 	text-transform: uppercase;
