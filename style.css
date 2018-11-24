@@ -62,6 +62,12 @@ body{
 		margin-bottom: -40px;
 	}
 }
+@keyframes ip{
+	0%{
+		color: rgba(0,0,0,0);
+	}
+	30%{}
+}
 @keyframes ctc{
 	0%{
 		color: rgba(0,0,0,0);
@@ -69,7 +75,5 @@ body{
 	84%{
 		color: rgba(0,0,0,0);
 	}
-	85%{
-		
-	}
+	85%{}
 }
